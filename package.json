@@ -1,0 +1,27 @@
+{
+  "name": "scheduler",
+  "version": "1.0.0",
+  "description": "An example calender application in Node.js for EnTouch",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "mongoskin": "^2.1.0",
+    "mongodb": "^2.2.29"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lmcMedia/node-entouch-calender.git"
+  },
+  "author": "Chris Burkhardt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lmcMedia/node-entouch-calender/issues"
+  },
+  "homepage": "https://github.com/lmcMedia/node-entouch-calender#readme"
+}
